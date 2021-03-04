@@ -1,7 +1,7 @@
 /*Section 9 Challenge*/
 // This challenge is about using a collection(list) of integers and allowing the user to select options from a menu
 // to perform operations on the list
-// Your program should displa a menu options to the user as follows:
+// Your program should display a menu options to the user as follows:
 //
 // P - Print numbers
 // A - Add a number
